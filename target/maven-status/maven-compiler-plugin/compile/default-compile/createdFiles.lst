@@ -1,0 +1,5 @@
+com\cybertools\activitiescontrol\CBDD.class
+com\cybertools\model\ActivitiesModel.class
+com\cybertools\controller\DAO.class
+com\cybertools\controller\Controller.class
+com\cybertools\servlet\ControlServlet.class
